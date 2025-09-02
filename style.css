@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tab-components {
+  display: flex;
+}
+
+.components {
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.tab-body {
+  border: 2px solid black;
+  display: flex;
+  padding: 2px;
+  margin: 2px;
+  height: 200px;
+}
